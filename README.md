@@ -1,2 +1,5 @@
 # Evaluaci-n-final-mate-discreta
-Hola
+Presentación del Proyecto Asignatura: Matemática Discreta
+Integrantes: Arrué, Benjamín Baeza, Benjamín Jara, Emily Llanquinao, Berenice
+
+Descripción del Programa: Para el proyecto final de Matemática Discreta, creamos un programa en Python que calcula la ruta más barata para viajar entre diferentes ciudades. El sistema representa el mapa como un grafo, donde las 15 ciudades son los "nodos" y las carreteras que las unen son las "líneas" o conexiones. A cada conexión le asignamos el costo real del viaje en pesos chilenos (CLP). Para encontrar el camino de menor costo entre una ciudad y otra, usamos el Algoritmo de Dijkstra, lo que asegura de forma matemática que el resultado entregado siempre será la opción más económica posible. El programa cuenta con una interfaz gráfica moderna armada con tkinter y un mapa dinámico creado con networkx y matplotlib. El usuario solo debe elegir el origen y el destino; el programa calculará la ruta, mostrará un informe con el gasto total en dinero y marcará en color azul el camino recomendado directamente sobre el mapa.
