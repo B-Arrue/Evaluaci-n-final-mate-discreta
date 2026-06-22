@@ -1,4 +1,4 @@
-# Evaluaci-n-final-mate-discreta
+# Evaluacion-final-mate-discreta
 Presentación del Proyecto Asignatura: Matemática Discreta
 Integrantes: Arrué, Benjamín Baeza, Benjamín Jara, Emily Llanquinao, Berenice
 
